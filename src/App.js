@@ -1,6 +1,7 @@
+import DateCounter from "./DateCounter"
 export default function App() {
   return(<div>
-    Hello Siddharth
+    <DateCounter/>
   </div>)
   
 }
